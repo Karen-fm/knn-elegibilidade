@@ -27,6 +27,10 @@ Saída (y) = `[3]`
 - As variáveis de entrada foram padronizadas com `StandardScaler` para melhor desempenho do KNN.
 - O valor ideal de **K** foi escolhido com base na maior acurácia sobre o conjunto de teste.
 
+## Desempenho
+
+- Melhor valor de `K`: `18`
+- Acurácia obtida no teste: `91.61%` que pode variar conforme o split dos dados
 
 ## Arquivos Fornecidos
 
